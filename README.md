@@ -1,16 +1,49 @@
-## Hi there 👋
+## 👋 Hi there! I'm Arjun
 
-<!--
-**Arjun-coder5/Arjun-coder5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software engineer, passionate about building real-world projects, mastering DSA, and aiming for top tech companies like Google and Microsoft.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 B.Tech CS Student |
+- 💻 Currently learning: **DSA (Java)** | **MERN Stack**
+- 🌱 Goal: Crack internships
+- ✍️ I love contributing to open-source & sharing knowledge
+
+---
+
+### 🛠 Tech Stack
+
+- 💻 Languages: Java, JavaScript
+- 🌐 Frontend: HTML, CSS, React.js
+- 🛠 Backend: Node.js, Express.js
+- 🗄️ Database: MongoDB
+- ⚙️ Tools: Git, GitHub, VS Code
+
+---
+
+### 📘 Current Projects
+
+- 🔁 [Daily-DSA](https://github.com/Arjun-coder5/Daily-DSA) – My daily DSA grind
+- 🛒 [MERN-ECommerce](https://github.com/Arjun-coder5/MERN-ECommerce) – Full-stack eCommerce site
+- 🌐 [Open-Source-Contributions](https://github.com/Arjun-coder5/Open-Source-Contributions) – My open-source learning
+
+---
+
+### 📊 GitHub Stats
+
+![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjun-coder5&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-coder5&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect With Me
+
+- ✉️ Gmail: your-email@gmail.com *(add your real one)*
+- 💼 LinkedIn: () *(update link)*
+
+---
+
+> ⚡ “Code. Learn. Build. Repeat.” – My everyday mantra 😎
+
