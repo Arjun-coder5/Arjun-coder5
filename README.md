@@ -40,7 +40,7 @@ I'm an aspiring software engineer, passionate about building real-world projects
 
 ### 📫 Connect With Me
 
-- ✉️ Gmail: your-email@gmail.com *(add your real one)*
+- ✉️ Gmail: arjunsorout526@gmail.com
 - 💼 LinkedIn: (https://www.linkedin.com/in/arjun-sorout-9aa10a290/)
 
 ---
