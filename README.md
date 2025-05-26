@@ -1,61 +1,63 @@
-# 👋 Hey there, I'm **Arjun Sorout**
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=800&color=00ff99&background=00000000&center=true&vCenter=true&width=600&lines=Crafting+Future+Code;Mastering+DSA+&+MERN;Aspiring+Google+Engineer)
-
----
-
-## 🚀 About Me
-
-🎓 2nd Year B.Tech CS Student | Passionate about Algorithms & Full Stack Development  
-🌱 Dedicated to continuous learning & growth  
-🎯 Target: Google, Microsoft & top tech internships
-
----
-
-## 🛠 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-
----
-
-## 📊 GitHub Stats
-
-![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjun-coder5&show_icons=true&theme=dark&count_private=true&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-coder5&layout=compact&theme=dark)
-
----
-
-## 🔗 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-sorout-9aa10a290)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunsorout526@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arjun-coder5)
-
----
-
-## ⚡ Currently Grinding
-
-- 🧩 Solving Daily DSA Challenges on LeetCode & Codeforces  
-- 🌐 Building sleek projects with MERN stack  
-- 🤝 Actively contributing to open-source  
-
----
-
-## 🧠 Quote to Live By
-
-> <i>“Simplicity is the soul of efficiency.”</i> – Austin Freeman
-
----
-
-![Futuristic Tech Wave](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+# <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=1000&color=00ff99&background=00000000&center=true&vCenter=true&width=700&lines=Hi,+I'm+Arjun+Sorout;Aspiring+Google+Software+Engineer;Code.+Build.+Innovate." alt="Typing SVG" />
+</p>
 
 ---
 
 <p align="center">
-  <sub>Made with ❤️ by Arjun Sorout</sub>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&animation=spin" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&animation=blink" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black&animation=pulse" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white&animation=flash" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white&animation=fade" />
 </p>
+
+---
+
+## 💻 About Me
+
+<p align="center" style="font-size: 1.1em;">
+🚀 2nd Year B.Tech CS Student & DSA Enthusiast <br/>
+🌱 Dedicated to mastering Data Structures & Algorithms <br/>
+🎯 Aiming for Google, Microsoft & top-tier internships <br/>
+🔭 Currently building MERN projects & contributing to Open Source
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-coder5&show_icons=true&theme=radical&count_private=true&hide_title=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-coder5&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/arjun-sorout-9aa10a290" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0072b1&color=00c6ff&animation=wave" alt="LinkedIn" />
+  </a>
+  <a href="mailto:arjunsorout526@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white&color=ff4b1f&labelColor=ff7720&animation=flash" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Arjun-coder5" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&color=6e5494&labelColor=2f363d&animation=pulse" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+## 🖥️ Daily Grind
+
+```bash
+while (notMasteredDSA) {
+    practice++;
+    learn++;
+    code++;
+    debug++;
+    repeat();
+}
