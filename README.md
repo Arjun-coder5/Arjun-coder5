@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hey+I'm+Arjun+Sorout;Aspiring+Software+Engineer;DSA+%2B+MERN+Learner;Open+Source+Contributor;Future+Googler+👨‍💻" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"/>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -62,4 +58,6 @@
 
 ---
 
-### 💬 Quote I Li
+### 💬 Quote I Live By
+
+> **“Code. Learn. Build. Repeat.”** — My everyday mantra 😎
