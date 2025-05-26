@@ -1,49 +1,59 @@
-## 👋 Hi there! I'm Arjun
+# Arjun Sorout 👋
 
-I'm an aspiring software engineer, passionate about building real-world projects, mastering DSA, and aiming for top tech companies like Google and Microsoft.
-
----
-
-### 🚀 About Me
-
-- 🎓 B.Tech CS Student |
-- 💻 Currently learning: **DSA (Java)** | **MERN Stack**
-- 🌱 Goal: Crack internships
-- ✍️ I love contributing to open-source & sharing knowledge
+### Aspiring Software Engineer | B.Tech Computer Science | DSA & Full-Stack Developer
 
 ---
 
-### 🛠 Tech Stack
+## About Me
 
-- 💻 Languages: Java, JavaScript
-- 🌐 Frontend: HTML, CSS, React.js
-- 🛠 Backend: Node.js, Express.js
-- 🗄️ Database: MongoDB
-- ⚙️ Tools: Git, GitHub, VS Code
+I am a motivated and dedicated Computer Science undergraduate with a strong foundation in Data Structures & Algorithms and full-stack web development. I am passionate about solving complex problems, writing clean, efficient code, and contributing to impactful projects. My goal is to secure an internship or role at a top-tier tech company like **Google** where I can grow and make meaningful contributions.
 
 ---
 
-### 📘 Current Projects
+## Technical Skills
 
-- 🔁 [Daily-DSA](https://github.com/Arjun-coder5/Daily-DSA) – My daily DSA grind
-- 🛒 [MERN-ECommerce](https://github.com/Arjun-coder5/MERN-ECommerce) – Full-stack eCommerce site
-- 🌐 [Open-Source-Contributions](https://github.com/Arjun-coder5/Open-Source-Contributions) – My open-source learning
-
----
-
-### 📊 GitHub Stats
-
-![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjun-coder5&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-coder5&layout=compact&theme=radical)
+- **Languages:** Java, JavaScript (ES6+), Python (basic)  
+- **Frontend:** HTML5, CSS3, React.js  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, NoSQL  
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Linux  
 
 ---
 
-### 📫 Connect With Me
+## Projects
 
-- ✉️ Gmail: arjunsorout526@gmail.com
-- 💼 LinkedIn: (https://www.linkedin.com/in/arjun-sorout-9aa10a290/)
+### Daily-DSA  
+- Practicing and solving a wide range of algorithmic problems daily to sharpen problem-solving skills.
+
+### MERN-Ecommerce  
+- Developed a scalable full-stack eCommerce application featuring product listings, user authentication, and cart management using React, Node.js, and MongoDB.
+
+### Open-Source Contributions  
+- Actively contributing to open-source projects to improve code quality and learn collaborative workflows.
 
 ---
 
-> ⚡ “Code. Learn. Build. Repeat.” – My everyday mantra 😎
+## Achievements & Goals
+
+- **Consistent daily practice** of DSA problems on platforms like LeetCode and Codeforces.  
+- Building **real-world projects** to strengthen full-stack development skills.  
+- **Preparing for Google and Microsoft interviews** with a focus on system design and algorithms.  
+
+---
+
+## GitHub Stats
+
+![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+---
+
+## Contact Me
+
+- 📧 [arjunsorout526@gmail.com](mailto:arjunsorout526@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/arjun-sorout-9aa10a290/)  
+- 🌐 Portfolio: *(Add your portfolio URL if you have one)*
+
+---
+
+> “Code. Learn. Build. Repeat.” — Committed to excellence and lifelong learning.
 
