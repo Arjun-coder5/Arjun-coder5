@@ -1,64 +1,63 @@
-<!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Arjun+Sorout;Aspiring+Software+Engineer;Learning+DSA+and+MERN+Stack;Future+Googler+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Arjun+%F0%9F%91%8B;2nd+Year+CS+Student;Aspiring+SDE+%F0%9F%9A%80;Loves+DSA+%2B+MERN+Stack" alt="Typing SVG" />
 </h1>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-🎓 B.Tech CS Student  
-💻 Learning DSA in Java & MERN Stack  
-🌱 Passionate about building real-world projects  
-🧠 Focused on mastering system design, open-source, and competitive coding  
-🚀 Dream: Crack an SDE role at Google or Microsoft  
+- 🎓 B.Tech CSE | 2nd Year  
+- 🧠 Currently mastering: **DSA (Java)** & **MERN Stack**  
+- 💼 Dream: Become a Software Engineer at **Google** or **Microsoft**  
+- ✨ I enjoy building real-world projects & contributing to Open Source  
+- 🚀 Mantra: `Code. Learn. Build. Repeat.`  
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Arjun-coder5&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun-coder5&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-coder5&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun-coder5&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 📊 GitHub Contribution Graph
+### 📘 Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun-coder5&theme=react-dark" alt="Arjun's GitHub Activity Graph" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arjun-coder5&theme=dracula&no-frame=true&row=1&column=6" />
-</p>
+- 📌 `Daily-DSA` — Daily DSA grind (LeetCode, GFG, Codeforces)
+- 🧠 `System-Design` — Solutions to system design problems
+- 🌍 `Open-Source-Contributions` — My open source work & PRs
+- 🌐 `Web-Dev` — Creative frontend project collection
 
 ---
 
-### 📫 Connect With Me
+### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Arjun%20Sorout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/arjun-sorout-9aa10a290)](https://linkedin.com/in/arjun-sorout-9aa10a290)  
-[![Gmail](https://img.shields.io/badge/-arjunsorout526@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:arjunsorout526@gmail.com)
+- 💌 Gmail: **arjunsorout526@gmail.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/arjun-sorout-9aa10a290/)  
+- 🧑‍💻 Portfolio: Coming Soon...
 
 ---
 
-### 💬 Quote I Live By
+### 🔁 Daily Dev Routine (Just for Fun 💡)
 
-> **“Code. Learn. Build. Repeat.”** — My everyday mantra 😎
+```java
+while (!MasteredDSA) {
+    practice();
+    learn();
+    build();
+    grow();
+}
