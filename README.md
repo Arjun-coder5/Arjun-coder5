@@ -39,17 +39,19 @@
 
 ---
 
+### 📊 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun-coder5&theme=react-dark" alt="Arjun's GitHub Activity Graph" />
+</p>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Arjun-coder5&theme=dracula&no-frame=true&row=1&column=6" />
 </p>
-
----
-
-### 📊 Contributor Graph
-
-[![Arjun's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arjun-coder5&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -60,7 +62,4 @@
 
 ---
 
-### 💬 Quote I Live By
-
-> **“Code. Learn. Build. Repeat.”** — My everyday mantra 😎
-
+### 💬 Quote I Li
