@@ -1,83 +1,88 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=%23ff6600&width=600&lines=Hi,+I'm+Arjun+Sorout;Aspiring+Software+Engineer;DSA+%26+Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1500&color=00ff99&width=650&lines=Hey+There!+I'm+Arjun+Sorout;Aspiring+Software+Engineer;Code.+Learn.+Build." alt="Typing SVG" />
 </p>
 
-<h3 align="center" style="background: linear-gradient(90deg, #ff6600, #ffcc00); -webkit-background-clip: text; color: transparent; font-weight: 700;">
-  Building scalable software and solving complex problems with passion
-</h3>
+<h1 align="center" style="font-weight:900; font-family: 'Courier New', Courier, monospace; 
+background: linear-gradient(270deg, #00ff99, #00ccff, #ff00cc, #ff6600);
+background-size: 800% 800%;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+animation: rainbow 8s ease infinite;">
+  Welcome to My Profile
+</h1>
+
+<style>
+@keyframes rainbow {
+  0%,100% {background-position:0% 50%;}
+  50% {background-position:100% 50%;}
+}
+.glow {
+  text-shadow: 0 0 10px #00ff99, 0 0 20px #00ff99, 0 0 30px #00ccff, 0 0 40px #00ccff;
+}
+.fade-in {
+  animation: fadein 2s ease-in forwards;
+  opacity: 0;
+}
+@keyframes fadein {
+  to {opacity: 1;}
+}
+</style>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/yourgithubid?v=4" alt="profile" width="150" style="border-radius: 50%; box-shadow: 0 0 15px #ff6600;" />
+  <img src="https://avatars.githubusercontent.com/u/yourgithubid?v=4" width="160" style="border-radius:50%; box-shadow: 0 0 20px #00ff99, 0 0 40px #00ccff;" />
 </p>
 
+<p align="center" class="glow fade-in" style="font-size: 1.2rem; font-family: 'Courier New', monospace;">
+  <code>
+    // Crafting solutions daily...<br />
+    while(notMasteredDSA) {<br />
+      practice++;<br />
+      learn++;<br />
+      grow++;<br />
+    }
+  </code>
+  <span style="animation: blink 1s step-end infinite;">█</span>
+</p>
+
+<style>
+@keyframes blink {
+  50% {opacity: 0;}
+}
+</style>
+
 ---
 
-## 🚀 About Me
-
-- 🎓 **B.Tech Computer Science Student** | Focused on Data Structures & Algorithms  
-- 💡 Passionate about open-source, system design & clean code  
-- 🔭 Currently mastering **Java**, **MERN stack**, and **Advanced DSA**  
-- 🎯 Long-term goal: Software Engineer at **Google / Microsoft**  
-
----
-
-## ⚡ Tech Stack & Tools
+### 🛠 Tech Stack
 
 <p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=ff6600" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=ffcc00" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=00ccff" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&color=00cc66" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=33cc33" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=ff3300" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0066cc" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=00ff99" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=00ccff" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=ff00cc" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&color=ff6600" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=00ff99" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-coder5&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-coder5&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-coder5&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-coder5&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Arjun-coder5&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 💬 Connect with Me
+### 🔗 Connect with Me
 
 <p align="center">
   <a href="mailto:arjunsorout526@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/arjun-sorout-9aa10a290/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Arjun-coder5" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-
-## ✨ Daily Motivation
-
-> <p align="center" style="font-size:1.25rem; color:#ff6600; font-weight:bold;">
-> "Code. Learn. Build. Repeat."  
-> <br>  
-> Every day is a new chance to level up. 😎
-> </p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="350" alt="coding animation" style="border-radius: 15px; box-shadow: 0 0 20px #ff6600;" />
 </p>
