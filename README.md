@@ -1,55 +1,57 @@
-<!-- Futuristic Glowing Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0FFFC0&center=true&vCenter=true&width=500&lines=Hi+I'm+Arjun+%F0%9F%9A%80;Aspiring+SDE+%7C+2nd+Year+CS+Student;DSA+%2B+MERN+Stack+Developer;Future+Googler+%F0%9F%92%BC;Open+Source+Contributor" alt="Typing SVG" />
+  <a href="https://github.com/Arjun-coder5">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00ff99&background=0D1117&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Arjun" alt="Typing SVG" />
+  </a>
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Arjun-coder5/Arjun-coder5/blob/main/assets/lines.gif" width="70%" />
+  <em>Future Software Engineer | B.Tech CS | Passionate about DSA & MERN Stack | Open Source Contributor</em>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-```txt
-class Arjun {
-  String role = "Future Software Engineer";
-  String learning = "DSA (Java), MERN Stack";
-  String dream = "Work @ Google / Microsoft";
+- 🎓 Currently pursuing B.Tech in Computer Science  
+- 💻 Strong focus on Data Structures & Algorithms (Java)  
+- 🌱 Building full-stack applications with MERN  
+- 💡 Eager to contribute to impactful open-source projects  
+- 🎯 Goal: Crack top tech internships & full-time roles at companies like Google & Microsoft  
 
-  void life() {
-    while (!achievedGoals) {
-      code();
-      buildProjects();
-      contributeOpenSource();
-    }
-  }
-}
-⚙️ Tech Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,mongodb,html,css,git,github,vscode&theme=light" /> </p>
-🚀 Projects
-Project	Description
-Daily-DSA	🚀 Daily problem solving repo (LeetCode, GFG, Codeforces)
-System-Design	🧠 Designing scalable systems for interviews
-Open-Source-Contributions	🌍 My open-source journey
-Web-Dev	💻 Mini frontend practice projects
+---
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Arjun-coder5&show_icons=true&theme=radical&hide_border=true&custom_title=Arjun's%20GitHub%20Stats" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun-coder5&theme=radical&hide_border=true" width="49%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun-coder5&theme=dracula&hide_border=true" /> </p>
-🌐 Connect with Me
-<p align="center"> <a href="mailto:arjunsorout526@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/arjun-sorout-9aa10a290/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
-🧠 Daily Dev Workflow
-java
-Copy
-Edit
-while (!MasteredDSA || !CrackedInternship) {
-    grind();
-    commit("Push daily to GitHub");
-    drinkCoffee();
-}
-System.out.println("Offer from Google 💼");
-⚡ Quote That Drives Me
-"Stay hungry, stay foolish. 🚀" — Steve Jobs
+## 🛠️ Tech Stack
 
-✨ Futuristic Footer
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffc8,100:7f00ff&height=140&section=footer"/> </p> ```
+| Languages | Frontend | Backend | Database | Tools |
+| --------- | -------- | ------- | -------- | ----- |
+| Java, JavaScript | HTML, CSS, React.js | Node.js, Express.js | MongoDB | Git, GitHub, VS Code |
+
+---
+
+## 📊 GitHub Stats
+
+![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjun-coder5&show_icons=true&theme=tokyonight&count_private=true)
+
+---
+
+## 📚 Projects
+
+| Repository | Description |
+|------------|-------------|
+| [Daily-DSA](https://github.com/Arjun-coder5/Daily-DSA) | Solving DSA problems daily from LeetCode, GFG, Codeforces |
+| [Open-Source-Contributions](https://github.com/Arjun-coder5/Open-Source-Contributions) | Contributions to various open source projects |
+| [System-Design](https://github.com/Arjun-coder5/System-Design) | Concepts and solutions for scalable system design problems |
+| [Web-Dev](https://github.com/Arjun-coder5/Web-Dev) | Cool website source code for frontend projects |
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-sorout-9aa10a290)  
+✉️ Email: arjunsorout526@gmail.com
+
+---
+
+<p align="center">
+  <em>"Code. Learn. Build. Repeat." — My everyday mantra</em>
+</p>
