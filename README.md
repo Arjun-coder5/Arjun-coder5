@@ -1,15 +1,14 @@
-# 👋 Hi, I'm Arjun Sorout
+# 👋 Hey there, I'm **Arjun Sorout**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00ff99&background=00000000&center=true&vCenter=true&width=500&lines=Building+The+Future;Mastering+DSA+and+MERN;Aspiring+Google+SDE)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=800&color=00ff99&background=00000000&center=true&vCenter=true&width=600&lines=Crafting+Future+Code;Mastering+DSA+&+MERN;Aspiring+Google+Engineer)
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science Student  
-💻 Passionate about **Data Structures & Algorithms** and **Full Stack Development**  
-🌱 Learning everyday to become a top-tier Software Engineer  
-🎯 Goal: Internships and full-time roles at Google, Microsoft & other tech giants  
+🎓 2nd Year B.Tech CS Student | Passionate about Algorithms & Full Stack Development  
+🌱 Dedicated to continuous learning & growth  
+🎯 Target: Google, Microsoft & top tech internships
 
 ---
 
@@ -25,30 +24,38 @@
 
 ## 📊 GitHub Stats
 
-![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arjun-coder5&show_icons=true&theme=radical)
+![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjun-coder5&show_icons=true&theme=dark&count_private=true&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-coder5&layout=compact&theme=dark)
 
 ---
 
-## 🔗 Connect with me
+## 🔗 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-sorout-9aa10a290)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunsorout526@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arjun-coder5)
 
 ---
 
-## 🎯 Currently Working On
+## ⚡ Currently Grinding
 
-- 🧑‍💻 Daily DSA practice and solving challenges on LeetCode  
-- 🌐 Building projects with MERN Stack  
-- 🤝 Contributing to open source for real-world experience  
-
----
-
-## 🧩 Fun Fact
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+- 🧩 Solving Daily DSA Challenges on LeetCode & Codeforces  
+- 🌐 Building sleek projects with MERN stack  
+- 🤝 Actively contributing to open-source  
 
 ---
 
-![Futuristic Wave](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+## 🧠 Quote to Live By
 
+> <i>“Simplicity is the soul of efficiency.”</i> – Austin Freeman
+
+---
+
+![Futuristic Tech Wave](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+---
+
+<p align="center">
+  <sub>Made with ❤️ by Arjun Sorout</sub>
+</p>
