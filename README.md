@@ -1,5 +1,6 @@
+<!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hey+I'm+Arjun+Sorout;Aspiring+Software+Engineer;DSA+%2B+MERN+Learner;Open+Source+Contributor;Future+Googler+👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Arjun+Sorout;Aspiring+Software+Engineer;Learning+DSA+and+MERN+Stack;Future+Googler+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
 ---
@@ -53,7 +54,7 @@
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-Arjun%20Sorout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/arjun-sorout-9aa10a290)](https://linkedin.com/in/arjun-sorout-9aa10a290)
+[![LinkedIn](https://img.shields.io/badge/-Arjun%20Sorout-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/arjun-sorout-9aa10a290)](https://linkedin.com/in/arjun-sorout-9aa10a290)  
 [![Gmail](https://img.shields.io/badge/-arjunsorout526@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:arjunsorout526@gmail.com)
 
 ---
