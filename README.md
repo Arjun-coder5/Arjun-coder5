@@ -1,65 +1,86 @@
-<!-- Neon Animated Title SVG -->
-<p align="center">
-  <svg width="700" height="80" viewBox="0 0 700 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="neon-gradient" x1="0" y1="0" x2="700" y2="80" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" stop-color="#00ff99" />
-        <stop offset="50%" stop-color="#00ccff" />
-        <stop offset="100%" stop-color="#ff00cc" />
-      </linearGradient>
-      <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%" color-interpolation-filters="sRGB" primitiveUnits="userSpaceOnUse">
-        <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#00ff99" flood-opacity="0.8"/>
-        <feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#00ccff" flood-opacity="0.6"/>
-        <feDropShadow dx="0" dy="0" stdDeviation="20" flood-color="#ff00cc" flood-opacity="0.4"/>
-      </filter>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Fira Code, monospace" font-size="48" fill="url(#neon-gradient)" filter="url(#neon-glow)">
-      Arjun Sorout - Code. Build. Repeat.
-    </text>
-  </svg>
-</p>
+# 👋 Hi, I'm Arjun Sorout
+
+> Aspiring Software Engineer | B.Tech CS Student | Passionate about DSA, MERN & Open Source  
+> Focused on cracking top tech internships and building scalable, efficient software.
 
 ---
 
-<!-- Animated About Me with fade-in effect -->
-<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.2em; color:#00ff99; animation: fadeIn 3s ease forwards; opacity: 0;">
-  🚀 2nd Year B.Tech CS | Aspiring Google SDE | DSA & MERN Developer | Open Source Contributor
-</p>
+## 🚀 About Me
+- 🎓 2nd Year Computer Science Student at [Your University Name]  
+- 💻 Languages: Java, JavaScript (ES6+)  
+- 🌐 Frontend: React.js, HTML5, CSS3  
+- 🛠 Backend: Node.js, Express.js  
+- 🗄️ Database: MongoDB, Firebase  
+- 📚 Currently deepening my understanding of Algorithms, Data Structures, and System Design  
+- 🤝 Open Source Enthusiast & Active Contributor  
+- 🌱 Always learning and improving with a growth mindset  
 
-<style>
-@keyframes fadeIn {
-  to { opacity: 1; }
+---
+
+## 💼 Tech Stack
+
+| Frontend       | Backend          | Database     | Tools & Others            |
+| -------------- | ---------------- | ------------ | -------------------------|
+| React.js       | Node.js, Express | MongoDB      | Git, GitHub, VS Code      |
+| HTML, CSS      | Java             | Firebase     | Postman, Docker (Basics) |
+
+---
+
+## 📂 Projects
+
+### 🔥 Daily-DSA  
+_Solving algorithmic problems daily on platforms like LeetCode, Codeforces, and GeeksforGeeks._  
+[Explore Repo](https://github.com/Arjun-coder5/Daily-DSA)
+
+### 🌍 Open-Source-Contributions  
+_Contributions to various open-source projects: bug fixes, new features, documentation improvements._  
+[Explore Repo](https://github.com/Arjun-coder5/Open-Source-Contributions)
+
+### 🏗 System-Design  
+_Collection of system design problems & solutions focusing on scalability, reliability, and performance._  
+[Explore Repo](https://github.com/Arjun-coder5/System-Design)
+
+### 🧰 Web-Dev-  
+_Source code for clean, responsive websites and front-end experiments._  
+_Private Repo_
+
+---
+
+## 📊 GitHub Stats
+
+![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjun-coder5&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-coder5&layout=compact&theme=tokyonight)
+
+---
+
+## 🌟 Achievements & Certifications
+
+- ⭐ Completed [DSA Course by Striver](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw) — mastered array, trees, graphs, DP, greedy algorithms  
+- 🏅 Participated in various online coding contests (Codeforces, LeetCode Weekly Contests)  
+- 📜 Certified in [Java Programming Fundamentals](https://www.sololearn.com/certificates/course/en/123456) (replace with real link)  
+
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-sorout-9aa10a290)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunsorout526@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arjun-coder5)
+
+---
+
+## 💬 Motivational Mantra
+
+> _"Success is not final, failure is not fatal: It is the courage to continue that counts."_ — Winston Churchill
+
+---
+
+## ⚡ Fun Fact
+
+```text
+while(!mastered) {
+  practice++;
+  debug++;
+  learn++;
+  grow++;
 }
-</style>
-
----
-
-<!-- Tech Stack Badges with Neon Glow -->
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-FFF000?style=for-the-badge&logo=javascript&logoColor=black&color=yellow&labelColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&color=darkblue&labelColor=black" alt="Java" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=skyblue&labelColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&color=green&labelColor=black" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=darkgreen&labelColor=black" alt="MongoDB" />
-</p>
-
----
-
-<!-- Dynamic GitHub Stats with glowing effect -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-coder5&show_icons=true&theme=radical&count_private=true&hide_title=true&border_color=00ff99&text_color=00ff99&icon_color=00ccff&bg_color=00000000" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-coder5&layout=compact&theme=radical&border_color=00ff99&text_color=00ff99&bg_color=00000000" alt="Top Languages" />
-</p>
-
----
-
-<!-- Animated Console-like Daily Grind -->
-```bash
-while [[ !masteredDSA ]]; do
-  practice --;
-  debug --;
-  learn --;
-  repeat --;
-done
-echo "Success! 🚀"
