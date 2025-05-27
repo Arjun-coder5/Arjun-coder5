@@ -15,16 +15,16 @@ My goal is to join a leading tech company like **Google** or **Microsoft** as a 
 - 🎯 Always striving to improve my problem-solving skills  
 
 ---
+<!-- Animated Typing for Skills & Technologies -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=500&color=00ffdd&center=true&vCenter=true&width=280&lines=Skills+%26+Technologies" alt="Typing Animation" />
+</p>
 
-## 🛠️ Skills & Technologies
-
-| Skill       | Proficiency  |
-|-------------|--------------|
-| Java        | ![85%](https://progress-bar.dev/85/?style=for-the-badge&suffix=%25) |
-| JavaScript  | ![80%](https://progress-bar.dev/80/?style=for-the-badge&suffix=%25) |
-| React.js    | ![75%](https://progress-bar.dev/75/?style=for-the-badge&suffix=%25) |
-| Node.js     | ![70%](https://progress-bar.dev/70/?style=for-the-badge&suffix=%25) |
-| MongoDB     | ![65%](https://progress-bar.dev/65/?style=for-the-badge&suffix=%25) |
+- Java (Core, OOP, Multithreading)  
+- JavaScript (ES6+, Async Programming)  
+- React.js (Component-based UI, State Management)  
+- Node.js & Express (API Development, Backend Services)  
+- MongoDB (NoSQL Database, Data Modeling)  
 
 ---
 
