@@ -12,9 +12,10 @@ My goal is to join a leading tech company like **Google** or **Microsoft** as a 
 - 📚 Currently learning MERN stack & advanced system design  
 - 🔍 Actively contributing to open source projects  
 - 💻 Building projects to solve real-world problems  
-- 🎯 Always striving to improve my problem-solving skills  
+- 🎯 Continuously improving my problem-solving skills  
 
 ---
+
 <!-- Animated Typing for Skills & Technologies -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=500&color=00ffdd&center=true&vCenter=true&width=280&lines=Skills+%26+Technologies" alt="Typing Animation" />
