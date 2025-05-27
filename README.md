@@ -1,27 +1,32 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3500&pause=500&color=00ffdd&center=true&vCenter=true&width=720&lines=Hi,+I'm+Arjun+Sorout!;B.Tech+CS+Student+%7C+Aspiring+SDE;Passionate+About+DSA+%26+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3500&pause=500&color=00ffd5&center=true&vCenter=true&width=720&lines=Hi,+I'm+Arjun+Sorout!;B.Tech+CS+Student+%7C+Aspiring+Software+Engineer;Passionate+About+DSA+%26+Open+Source" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-Hey there! I’m **Arjun Sorout**, a dedicated B.Tech Computer Science student with a passion for:
+Hello! I’m **Arjun Sorout**, a motivated B.Tech Computer Science student driven by curiosity and impact.  
+I’m focused on building expertise in:
 
-- 🔥 Mastering **Data Structures & Algorithms**  
-- 🏗️ Designing scalable **System Architectures**  
-- 🌐 Building full-stack apps with the **MERN stack**  
+- 🔥 **Data Structures & Algorithms** — sharpening problem-solving skills  
+- 🏗️ **System Design** — crafting scalable, efficient architectures  
+- 🌐 **Full-stack Development** — leveraging the MERN stack to create real-world apps  
 
-🎯 **Goal:** To become a Software Engineer at **Google** or **Microsoft** — solving real-world problems through code!
+🎯 My ambition: to join top-tier tech companies like **Google** or **Microsoft** as a Software Engineer, solving complex challenges through elegant code.
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=00ffdd&center=true&vCenter=true&width=450&lines=Skills+%26+Technologies+I+Love" alt="Skills Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=00ffd5&center=true&vCenter=true&width=450&lines=Skills+%26+Technologies" alt="Skills Typing" />
 </p>
 
 <p align="center">
-  <kbd>Java</kbd> &nbsp; <kbd>JavaScript</kbd> &nbsp; <kbd>React.js</kbd> &nbsp; <kbd>Node.js</kbd> &nbsp; <kbd>MongoDB</kbd>
+  <kbd style="padding:6px 10px; border-radius:6px; background:#282c34; color:#61dafb; font-weight:bold;">Java</kbd> &nbsp;
+  <kbd style="padding:6px 10px; border-radius:6px; background:#282c34; color:#f0db4f; font-weight:bold;">JavaScript</kbd> &nbsp;
+  <kbd style="padding:6px 10px; border-radius:6px; background:#282c34; color:#61dafb; font-weight:bold;">React.js</kbd> &nbsp;
+  <kbd style="padding:6px 10px; border-radius:6px; background:#282c34; color:#3c873a; font-weight:bold;">Node.js</kbd> &nbsp;
+  <kbd style="padding:6px 10px; border-radius:6px; background:#282c34; color:#47a248; font-weight:bold;">MongoDB</kbd>
 </p>
 
 <p align="center">
@@ -34,32 +39,32 @@ Hey there! I’m **Arjun Sorout**, a dedicated B.Tech Computer Science student w
 
 ---
 
-## 📂 Projects I’m Proud Of
+## 📂 Selected Projects
 
 ### 🚀 [Daily-DSA](https://github.com/Arjun-coder5/Daily-DSA)  
-Solving daily algorithm challenges to sharpen my problem-solving skills.
+A curated collection of algorithm challenges practiced daily to hone my coding skills and efficiency.
 
 ### 🛠️ [Open Source Contributions](https://github.com/Arjun-coder5/Open-Source-Contributions)  
-Fixing bugs and adding features to community-driven projects.
+Meaningful bug fixes and feature enhancements to popular community projects.
 
-### 🏗️ [System Design](https://github.com/Arjun-coder5/System-Design)  
-Documenting scalable and efficient architecture patterns.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-coder5&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-coder5&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 🏗️ [System Design Repository](https://github.com/Arjun-coder5/System-Design)  
+Comprehensive documentation and practical examples of scalable system architectures.
 
 ---
 
-## 📫 Let’s Connect!
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-coder5&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-coder5&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Get In Touch
 
 <p align="center">
   <a href="mailto:arjunsorout526@gmail.com" target="_blank">
@@ -76,6 +81,6 @@ Documenting scalable and efficient architecture patterns.
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" alt="Let's code GIF" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="160" alt="Let's code GIF" />
 </p>
 
