@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=500&color=00ffdd&center=true&vCenter=true&width=700&lines=Hey,+I'm+Arjun+Sorout!;B.Tech+CS+Student+%7C+Future+SDE;Passionate+About+DSA+and+Open+Source" alt="Typing SVG" />
 </p>
 
-<!-- Centered Profile Picture -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="150" height="150" style="border-radius: 50%; border: 4px solid #00ffdd;"/>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -103,4 +98,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="150" alt="Thank You GIF" />
 </p>
-
