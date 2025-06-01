@@ -83,7 +83,3 @@ I’m focused on building expertise in:
 </p>
 
 ---
-
-<p align="center" style="margin-top: 30px;">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="160" alt="Let's code GIF" />
-</p>
