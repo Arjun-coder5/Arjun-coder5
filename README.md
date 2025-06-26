@@ -1,85 +1,73 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&pause=700&color=00ffd5&center=true&vCenter=true&width=720&lines=Hi,+I'm+Arjun+Sorout!;B.Tech+CS+Student+%7C+Aspiring+Software+Engineer;Passionate+About+DSA+%26+Open+Source" alt="Typing SVG" />
-</p>
-
----
-
-## 👋 About Me
-
-Hello! I’m **Arjun Sorout**, a motivated B.Tech Computer Science student driven by curiosity and impact.  
-I’m focused on building expertise in:
-
-<div align="center">
-
-| 🔥 **Data Structures & Algorithms** | 🏗️ **System Design** | 🌐 **Full-stack Development** |
-|:----------------------------------:|:-------------------:|:----------------------------:|
-| Sharpening problem-solving skills  | Crafting scalable, efficient architectures | Building MERN stack apps with real-world impact |
-
-</div>
-
-🎯 **Goal:** To become a Software Engineer at **Google** or **Microsoft**, solving complex challenges through elegant, efficient code.
-
----
+<h1 align="center">Hi 👋, I'm Arjun Sorout</h1>
+<h3 align="center">🚀 Aspiring FAANG Engineer | Full Stack Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00ffd5&center=true&vCenter=true&width=500&lines=Skills+%26+Technologies" alt="Skills Typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Code.+Commit.+Conquer.;FAANG+Mode+%F0%9F%9A%80+Activated.;Building+skills+1+day+at+a+time.;Let%E2%80%99s+crack+Google+%7C+Amazon+%7C+Microsoft" alt="Typing SVG" />
 </p>
 
-<p align="center" style="margin-bottom: 1em;">
-  <kbd style="padding:8px 14px; border-radius:8px; background:#282c34; color:#61dafb; font-weight:bold; box-shadow: 0 0 8px #61dafb;">Java</kbd> &nbsp;
-  <kbd style="padding:8px 14px; border-radius:8px; background:#282c34; color:#f0db4f; font-weight:bold; box-shadow: 0 0 8px #f0db4f;">JavaScript</kbd> &nbsp;
-  <kbd style="padding:8px 14px; border-radius:8px; background:#282c34; color:#61dafb; font-weight:bold; box-shadow: 0 0 8px #61dafb;">React.js</kbd> &nbsp;
-  <kbd style="padding:8px 14px; border-radius:8px; background:#282c34; color:#3c873a; font-weight:bold; box-shadow: 0 0 8px #3c873a;">Node.js</kbd> &nbsp;
-  <kbd style="padding:8px 14px; border-radius:8px; background:#282c34; color:#47a248; font-weight:bold; box-shadow: 0 0 8px #47a248;">MongoDB</kbd>
-</p>
+---
+
+## 🧠 About Me
+
+- 🎓 B.Tech CSE Student @ GLA University  
+- 🧠 Mastering **DSA** from GFG & Striver  
+- 🛠️ Learning **Full Stack Web Development (MERN)**  
+- 🧑‍💻 Building real-world projects & contributing to Open Source  
+- 🎯 Goal: Crack FAANG | Google, Microsoft, Amazon
+
+---
+
+## 🧰 Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%230072B1.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-coder5&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun-coder5&theme=radical" width="45%" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-coder5&layout=compact&theme=radical" width="50%" />
 </p>
 
 ---
 
-## 📂 Selected Projects
+## 🔥 Current Focus
 
-### 🚀 [Daily-DSA](https://github.com/Arjun-coder5/Daily-DSA)  
-*A curated collection of daily algorithm challenges to sharpen my coding efficiency.*
-
-### 🛠️ [Open Source Contributions](https://github.com/Arjun-coder5/Open-Source-Contributions)  
-*Bug fixes and feature enhancements in popular community-driven projects.*
-
-### 🏗️ [System Design Repository](https://github.com/Arjun-coder5/System-Design)  
-*Comprehensive docs and practical examples of scalable system architectures.*
+- ✅ DSA with Striver A2Z + GFG A-Z  
+- 🔁 Daily GitHub commits  
+- 💼 Building full-stack projects  
+- ✍️ Creating a blog/portfolio  
+- 🔜 Leetcode 300+ & System Design
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/arjun-sorout-9aa10a290)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Arjun-coder5)
+[![Mail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your.email@example.com)
+
+---
+
+## 💡 Quote I Live By
+
+> "_Success doesn’t come from what you do occasionally, it comes from what you do consistently._"
+
+---
+
+## ⚙️ GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-coder5&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="460" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun-coder5&theme=react-dark" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-coder5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="320" />
-</p>
-
----
-
-## 📫 Let's Connect!
-
-<p align="center" style="margin-top:1em;">
-  <a href="mailto:arjunsorout526@gmail.com" target="_blank" rel="noopener noreferrer" title="Email Me">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a> &nbsp;
-  <a href="https://linkedin.com/in/arjun-sorout-9aa10a290" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> &nbsp;
-  <a href="https://github.com/Arjun-coder5" target="_blank" rel="noopener noreferrer" title="GitHub Profile">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
