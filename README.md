@@ -1,97 +1,73 @@
-<!-- Arjun Sorout - FAANG-Ready GitHub Profile README -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="900" alt="Animated Banner"/>
-</p>
 
-<h1 align="center">Hey there 👋, I'm <span style="color:#fca311;">Arjun Sorout</span></h1>
-<h3 align="center">🚀 Full Stack Developer | FAANG Aspirant | DSA Grindset | Passionate Problem Solver</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Code.+Commit.+Conquer.;Mastering+DSA+%26+System+Design.;Building+Real+Projects+with+MERN.;Focused+on+FAANG+Dream+%F0%9F%92%AA" alt="Typing SVG" />
-</p>
+![snake gif](https://github.com/Arjun-coder5/Arjun-coder5/blob/output/github-contribution-grid-snake.svg)
+<h1 align="center">Hi, I'm Arjun 👋</h1>
+<h3 align="center">Full Stack Developer | DSA Enthusiast | Future FAANG Engineer</h3>
 
 ---
 
-### 🧠 About Me
+## 🚀 About Me
 
-```yaml
-name: Arjun Sorout
-based_in: India
-education: B.Tech in Computer Science @ GLA University
-currently_learning:
-  - Advanced DSA (Striver + GFG)
-  - Full Stack Development (MERN)
-  - System Design
-goal: Crack Google / Microsoft / Amazon (FAANG)
-mindset: 100 Days of Code | Consistency > Motivation
-```
+- 👨‍💻 I’m currently focused on **DSA + MERN Stack Development**
+- 🧠 Learning advanced **System Design** and contributing to **Open Source**
+- 🎯 My goal: **Crack a ₹1 Cr Job by 2027**
+- ⚡ Fun Fact: I debug better at night 🌙
 
 ---
 
-### ⚙️ My Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,tailwind,nodejs,express,mongodb,mysql,git,github,postman,vscode" height="60" />
-</p>
+**Languages:**  
+`Java` `JavaScript` `TypeScript`  
+
+**Frontend:**  
+`React.js` `HTML` `CSS` `Tailwind`
+
+**Backend:**  
+`Node.js` `Express.js`
+
+**Database & Tools:**  
+`MongoDB` `Git` `VS Code`
 
 ---
 
-### 📊 My GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-coder5&show_icons=true&theme=tokyonight&rank_icon=github" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun-coder5&theme=tokyonight" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arjuncodes&show_icons=true&theme=default&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-coder5&layout=compact&theme=tokyonight" width="450"/>
+  <img src="https://streak-stats.demolab.com?user=arjuncodes&theme=default&hide_border=true" />
 </p>
 
 ---
 
-### 🌱 My Learning Journey
+## 📚 Current Focus
 
-```mermaid
-graph TD;
-    A[Start: Java Basics] --> B[Arrays & Strings]
-    B --> C[Recursion, Sorting, Searching]
-    C --> D[Linked Lists, Trees, Graphs]
-    D --> E[Build MERN Projects]
-    E --> F[System Design + Open Source]
-    F --> G[Mock Interviews + Resume]
-    G --> H[FAANG Interview Success 🔥]
-```
+- 🔥 **Striver A2Z Sheet**
+- ✅ Kunal Kushwaha's DSA Course
+- 💼 Sigma Web Dev Projects
+- 🧠 Weekly system design revision
 
 ---
 
-### 🔥 Contribution Graph
+## 💼 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun-coder5&theme=dracula&area=true&hide_border=true" width="90%" />
-</p>
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/arjun-sorout-9aa10a290">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Arjun-coder5">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+- 🧬 **Portfolio Website** – Clean design with React
+- 🛒 **E-Commerce App** – MERN Stack + Stripe integration
+- 📊 **DSA Visualizer** – Visual sorting & tree algorithms
 
 ---
 
-### 💡 Quote I Live By
+## 📫 Let’s Connect
 
-> “Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing.”
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
-</p>
+- 🌐 LinkedIn: [linkedin.com/in/arjun](https://linkedin.com/in/arjun)  
+- 📩 Email: [arjun@gmail.com](mailto:arjun@gmail.com)
 
 ---
 
-<!-- End of README -->
+## 💬 Quote I Live By
+
+> "Success doesn’t come from what you do occasionally, it comes from what you do consistently."  
+> — Let’s grind one problem at a time 💻
+
+---
