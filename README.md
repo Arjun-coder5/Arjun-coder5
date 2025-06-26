@@ -2,8 +2,9 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350px" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" width="320px" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Building+cool+things...;Solving+real-world+problems...;Preparing+for+FAANG+one+commit+at+a+time!" />
 </p>
+
 
 
 ![snake gif](https://github.com/Arjun-coder5/Arjun-coder5/blob/output/github-contribution-grid-snake.svg)
