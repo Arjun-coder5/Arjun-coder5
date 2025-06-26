@@ -1,7 +1,13 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350px" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" width="320px" />
+</p>
 
 
 ![snake gif](https://github.com/Arjun-coder5/Arjun-coder5/blob/output/github-contribution-grid-snake.svg)
-<h1 align="center">Hi, I'm Arjun 👋</h1>
+<h1 align="center"> Arjun  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <h3 align="center">Full Stack Developer | DSA Enthusiast | Future FAANG Engineer</h3>
 
 ---
@@ -10,8 +16,8 @@
 
 - 👨‍💻 I’m currently focused on **DSA + MERN Stack Development**
 - 🧠 Learning advanced **System Design** and contributing to **Open Source**
-- 🎯 My goal: **Crack a ₹1 Cr Job by 2027**
-- ⚡ Fun Fact: I debug better at night 🌙
+- 🎯 My goal: **Beat Myself**
+- ⚡ Fun Fact: - 🧩 I treat every LeetCode problem like a boss fight.
 
 ---
 
@@ -31,32 +37,25 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjuncodes&show_icons=true&theme=default&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=arjuncodes&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-coder5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&count_private=true&theme=github_dark" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arjun-coder5&theme=github-dark-blue&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-coder5&layout=compact&theme=github_dark&hide_border=true" width="38%" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjun-coder5&theme=github_dark" width="60%" />
 </p>
 
 ---
 
-## 📚 Current Focus
-
-- 🔥 **Striver A2Z Sheet**
-- ✅ Kunal Kushwaha's DSA Course
-- 💼 Sigma Web Dev Projects
-- 🧠 Weekly system design revision
-
----
 
 ## 💼 Featured Projects
-
-- 🧬 **Portfolio Website** – Clean design with React
-- 🛒 **E-Commerce App** – MERN Stack + Stripe integration
-- 📊 **DSA Visualizer** – Visual sorting & tree algorithms
-
----
+comming soon..
 
 ## 📫 Let’s Connect
 
