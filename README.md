@@ -5,7 +5,9 @@ GLA University, India
 
 📧 Email: arjunsorout526@gmail.com  
 🔗 LinkedIn: [https://linkedin.com/in/arjun  ](https://www.linkedin.com/in/arjun-9aa10a290/)
+
 💻 Codeforces:[ https://codeforces.com/profile/arjunsorout526](https://codeforces.com/profile/arjunsorout526)  
+
 🧠 LeetCode: [https://leetcode.com/your-username  ](https://leetcode.com/u/Arjun_coder_01/)
 
 ---
