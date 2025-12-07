@@ -1,9 +1,10 @@
 # Arjun Sorout
 
-B.Tech Computer Science (2nd Year) | Java Backend Engineer | DSA & Competitive Programming  
+B.Tech Computer Science | Java Full Stack Engineer | DSA & Competitive Programming | Ai ml ReSearcher
 GLA University, India  
 
 📧 Email: arjunsorout526@gmail.com  
+
 🔗 LinkedIn: [https://linkedin.com/in/arjun  ](https://www.linkedin.com/in/arjun-9aa10a290/)
 
 💻 Codeforces:[ https://codeforces.com/profile/arjunsorout526](https://codeforces.com/profile/arjunsorout526)  
@@ -11,15 +12,15 @@ GLA University, India
 🧠 LeetCode: [https://leetcode.com/your-username  ](https://leetcode.com/u/Arjun_coder_01/)
 
 ---
-## Professional Summary
+## About me - 
 
-Computer Science undergraduate specializing in **Data Structures & Algorithms, Java Backend Engineering, and Competitive Programming, Ai ml**.  
-Actively building **scalable backend services**, solving **high-frequency interview-grade DSA problems**, and participating in **time-bounded competitive programming contests**.  
-Aiming for **product-based software engineering roles** through **strong fundamentals, system-level thinking, and production-oriented development**.
+Computer Science undergraduate focused on **DSA, Java backend development, competitive programming, and AI/ML**.  
+I build **scalable backend services**, solve **interview-level algorithmic problems**, and regularly compete in **timed coding contests**.  
+My goal is to land a **product-based software engineering role** through strong fundamentals and consistent execution.
 
 ---
 
-## Technical Skillset
+## Technical Skillset - 
 
 ### Programming & Core CS
 - Java (Primary), Python, C/C++
