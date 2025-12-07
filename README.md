@@ -1,7 +1,8 @@
 # Arjun Sorout
 
 B.Tech Computer Science | Java Full Stack Engineer | DSA & Competitive Programming | Ai ml ReSearcher
-GLA University, India  
+
+Region -  India  :
 
 📧 Email: arjunsorout526@gmail.com  
 
