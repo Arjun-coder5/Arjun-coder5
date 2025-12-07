@@ -1,68 +1,74 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350px" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Building+cool+things...;Solving+real-world+problems...;Preparing+for+FAANG+one+commit+at+a+time!" />
-</p>
+# Arjun Sorout
 
+B.Tech Computer Science (2nd Year) | Java Backend Engineer | DSA & Competitive Programming  
+GLA University, India  
 
+📧 Email: arjunsorout526@gmail.com  
+🔗 LinkedIn: [https://linkedin.com/in/arjun  ](https://www.linkedin.com/in/arjun-9aa10a290/)
+💻 Codeforces:[ https://codeforces.com/profile/arjunsorout526](https://codeforces.com/profile/arjunsorout526)  
+🧠 LeetCode: [https://leetcode.com/your-username  ](https://leetcode.com/u/Arjun_coder_01/)
 
-![snake gif](https://github.com/Arjun-coder5/Arjun-coder5/blob/output/github-contribution-grid-snake.svg)
-<h1 align="center"> Arjun  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-<h3 align="center">Full Stack Developer | DSA Enthusiast | Future FAANG Engineer</h3>
+---
+## Professional Summary
+
+Computer Science undergraduate specializing in **Data Structures & Algorithms, Java Backend Engineering, and Competitive Programming, Ai ml**.  
+Actively building **scalable backend services**, solving **high-frequency interview-grade DSA problems**, and participating in **time-bounded competitive programming contests**.  
+Aiming for **product-based software engineering roles** through **strong fundamentals, system-level thinking, and production-oriented development**.
 
 ---
 
-## 🚀 About Me
+## Technical Skillset
 
-- 👨‍💻 I’m currently focused on **DSA + Java Full Stack Development**
-- 🎯 My goal: **Beat Myself** - Make realWorld Product and enhance my skill ;
-- I do cp every day regrously.
+### Programming & Core CS
+- Java (Primary), Python, C/C++
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Time & Space Complexity Analysis
+- SQL, Relational Data Modeling
+
+### Backend & API Engineering
+- Spring Boot
+- RESTful API Design
+- Authentication & Authorization (OAuth2 – Basics)
+- MVC Architecture
+- Microservice-Oriented Design (Learning Phase)
+
+### Frontend Engineering
+- React.js
+- Next.js
+- TypeScript, JavaScript
+- HTML5, CSS3
+
+### Databases & Storage
+- MySQL
+- PostgreSQL
+- Indexing, Normalization, Query Optimization (Fundamentals)
+
+### DevOps & Cloud (Foundational)
+- Git, GitHub (Version Control & Collaboration)
+- Docker (Containerization)
+- AWS (EC2, S3 – Basics)
+- CI/CD Pipelines (Fundamentals)
+- Kubernetes (Intro Level)
+
+### AI / ML Engineering (Learning Track)
+- NumPy, Pandas, Matplotlib
+- Machine Learning Fundamentals
+- Deep Learning Basics
+- Natural Language Processing (NLP)
+- Computer Vision (CV)
+- Large Language Models (LLMs)
+- Fine-Tuning, RAG Pipelines, AI Agents (Intro Level)
+- MLOps & Model Deployment (Fundamentals).
+## Engineering Projects
+
+> All projects are currently under structured development with proper documentation, testing, and deployment pipelines.
+
+## Contact & Collaboration
+
+📧 arjunsorout526@gmail.com  
+🔗 https://linkedin.com/in/arjun  
+
 ---
 
-## 🛠️ Tech Stack
-- Java(oops)
-- Spring webFrameWork
-- Spring Ai
-- react
-- html,css,js
-- next js.
-- typescript
-- MySql
-- PostGreSql
-- DataBase &OATH2
-- Docker
-- Aws
-- k8s
-- cs/cd
-- Python
-- python dsv library (numpy,pandas,matplotlib,seaborn)
-- Machine Learning
-- Deep Learning
-- cv
-- nlp
-- RainForcement Learning
-- Speech and Audio Analysis
-- llm
-- fine tuning
-- working with llm APIS
-- Rag
-- Ai agents
-- MCP
-- MLOOPS AND PRODUCTION
-- 
-
-## 💼 Featured Projects
------Coming~soon~
-
-## 📫 Let’s Connect
-
-- 🌐 LinkedIn: [linkedin.com/in/arjun](https://linkedin.com/in/arjun)  
-- 📩 Email: [arjunsorout526@gmail.com](mailto:arjunsorout526@gmail.com)
-
----
-
-## 💬 Quote I Live By
-
-> "Success doesn’t come from what you do occasionally, it comes from what you do consistently."  
----
+"Discipline at scale builds engineers, not shortcuts."
