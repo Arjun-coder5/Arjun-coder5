@@ -42,12 +42,14 @@ Java Full Stack Developer | Competitive Programmer | AI/ML Enthusiast
 | **AI / ML** | NumPy, Pandas, Matplotlib *(Learning)* |
 | **Currently Learning** | MySql,MatplotLib... |
 ---
-## Currently Focus 
-- Competitive Programming
-- Spring Boot
-- Microservices
-- AI/ML
-- Open Source
+
+## 🎯 2026 Goals
+
+- Solve Arround 1100+ on cf and 700+ Leetcode 
+- Reach Specialist on Codeforces
+- Build production-ready Spring Boot projects
+- Learn Microservices and System Design
+- Build AI/ML portfolio projects
 ---
 
 ---
