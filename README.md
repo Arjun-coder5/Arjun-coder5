@@ -24,8 +24,8 @@ Java Full Stack Developer | Competitive Programmer | AI/ML Enthusiast
 - [Chat App Repo ](https://github.com/Arjun-coder5/ChatApp)
 - [Car Rental System Repo](https://github.com/Arjun-coder5/Car-Rental-System)
 - [Employee RolePay System Repo](https://github.com/Arjun-coder5/Java-Employee-Payroll-System)
-
-##   AI ML Projects :
+---
+##   AI/ML Projects :
 - [Crop Yeild Prediction System Repo](https://github.com/Arjun-coder5/Crop-Yield-Prediction-ML)
 ---
 
