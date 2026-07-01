@@ -1,41 +1,53 @@
 # Arjun Sorout
 
-B.Tech Computer Science | Java Full Stack Engineer | DSA & Competitive Programming | Ai ml ReSearcher
+B.Tech Computer Science Student
+Java Full Stack Developer | Competitive Programmer | AI/ML Enthusiast
 
-Region -  India  :
+📍 India
+
+## Contact & Profiles 
 
 📧 Email: arjunsorout526@gmail.com  
 
-🔗 LinkedIn: [https://linkedin.com/in/arjun  ](https://www.linkedin.com/in/arjun-9aa10a290/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/arjun-sorout-9aa10a290/)
 
-💻 Codeforces:[ https://codeforces.com/profile/arjunsorout526](https://codeforces.com/profile/arjunsorout526)  
+- [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/u/Arjun_coder_01/)
 
-  AtCoders:[https://atcoder.jp/users/Storm_Breaker_07]
+- [![Codeforces](https://img.shields.io/badge/Codeforces-blue)](https://codeforces.com/profile/arjunsorout526)
 
-🧠 LeetCode: [https://leetcode.com/your-username  ](https://leetcode.com/u/Arjun_coder_01/)
+- [![AtCoder](https://img.shields.io/badge/AtCoder-black)](https://atcoder.jp/users/Storm_Breaker_07)
 
 ---
-## About me - 
+## About me 
 
-Computer Science undergraduate focused on **DSA, Java backend development, competitive programming, and AI/ML**.  
-I build **scalable backend services**, solve **interview-level algorithmic problems**, and regularly compete in **timed coding contests**.  
-My goal is to land a **product-based software engineering role** through strong fundamentals and consistent execution.
+- Computer Science undergraduate passionate about backend engineering, algorithms, and artificial intelligence. I enjoy building scalable Java applications, solving algorithmic problems, and participating in competitive - programming contests. I'm currently strengthening my expertise in Java Full Stack Development, AI/ML, and system design while preparing for software engineering roles at product-based companies.
 
 ---
 
+## Projects :
+(**coming soon**)
+
+---
 ## Technical Skillset - 
-### Language : Java(Priority),Python(AI/ML),SQL. 
-### Backend Development :  Spring Boot, Spring Boot MVC, Spring Data JPA, Hibernate, RESTful APIs, Microservices Architecture
-### DataBases : MySql,PostGreaySql,MongoDB.
-### 
-### Problem Solving & Competitive Programming . 
-### 
+
+| Category | Technologies |
+|-----------|--------------|
+| **Languages** | Java, Python, SQL |
+| **Backend Development** | Spring Boot, Spring MVC, Spring Data JPA, Hibernate, RESTful APIs |
+| **Databases** | MySQL, PostgreSQL, MongoDB |
+| **Competitive Programming** | LeetCode, Codeforces, AtCoder |
+| **Tools & Platforms** | Git, GitHub, Maven, IntelliJ IDEA, VS Code, Postman |
+| **Architecture** | REST API Design, Layered Architecture, MVC Pattern, Microservices (Learning) |
+| **AI / ML** | NumPy, Pandas, Matplotlib *(Learning)* |
+| **Currently Learning** | MySql,MatplotLib... |
 ---
-
-## Contact & Collaboration
-
-📧 arjunsorout526@gmail.com  
-🔗 https://linkedin.com/in/arjun  
+## Currently Focus 
+- Competitive Programming
+- Spring Boot
+- Microservices
+- AI/ML
+- Open Source
+---
 
 ---
 
