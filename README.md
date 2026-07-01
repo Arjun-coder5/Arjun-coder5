@@ -7,16 +7,11 @@ Java Full Stack Developer | Competitive Programmer | AI/ML Enthusiast
 
 ## Contact & Profiles 
 
-📧 Email: arjunsorout526@gmail.com  
-
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/arjun-sorout-9aa10a290/)
-
 - [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/u/Arjun_coder_01/)
-
 - [![Codeforces](https://img.shields.io/badge/Codeforces-blue)](https://codeforces.com/profile/arjunsorout526)
-
 - [![AtCoder](https://img.shields.io/badge/AtCoder-black)](https://atcoder.jp/users/Storm_Breaker_07)
-
+- 📧 Email:arjunsorout526@gmail.com 
 ---
 ## About me 
 
