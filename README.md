@@ -10,6 +10,8 @@ Region -  India  :
 
 💻 Codeforces:[ https://codeforces.com/profile/arjunsorout526](https://codeforces.com/profile/arjunsorout526)  
 
+  AtCoders:[https://atcoder.jp/users/Storm_Breaker_07]
+
 🧠 LeetCode: [https://leetcode.com/your-username  ](https://leetcode.com/u/Arjun_coder_01/)
 
 ---
@@ -22,51 +24,13 @@ My goal is to land a **product-based software engineering role** through strong 
 ---
 
 ## Technical Skillset - 
-
-### Programming & Core CS
-- Java (Primary), Python, C/C++
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Time & Space Complexity Analysis
-- SQL, Relational Data Modeling
-
-### Backend & API Engineering
-- Spring Boot
-- RESTful API Design
-- Authentication & Authorization (OAuth2 – Basics)
-- MVC Architecture
-- Microservice-Oriented Design (Learning Phase)
-
-### Frontend Engineering
-- React.js
-- Next.js
-- TypeScript, JavaScript
-- HTML5, CSS3
-
-### Databases & Storage
-- MySQL
-- PostgreSQL
-- Indexing, Normalization, Query Optimization (Fundamentals)
-
-### DevOps & Cloud (Foundational)
-- Git, GitHub (Version Control & Collaboration)
-- Docker (Containerization)
-- AWS (EC2, S3 – Basics)
-- CI/CD Pipelines (Fundamentals)
-- Kubernetes (Intro Level)
-
-### AI / ML Engineering (Learning Track)
-- NumPy, Pandas, Matplotlib
-- Machine Learning Fundamentals
-- Deep Learning Basics
-- Natural Language Processing (NLP)
-- Computer Vision (CV)
-- Large Language Models (LLMs)
-- Fine-Tuning, RAG Pipelines, AI Agents (Intro Level)
-- MLOps & Model Deployment (Fundamentals).
-## Engineering Projects
-
-> All projects are currently under structured development with proper documentation, testing, and deployment pipelines.
+### Language : Java(Priority),Python(AI/ML),SQL. 
+### Backend Development :  Spring Boot, Spring Boot MVC, Spring Data JPA, Hibernate, RESTful APIs, Microservices Architecture
+### DataBases : MySql,PostGreaySql,MongoDB.
+### 
+### Problem Solving & Competitive Programming . 
+### 
+---
 
 ## Contact & Collaboration
 
