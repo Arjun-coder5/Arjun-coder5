@@ -21,11 +21,24 @@ Java Full Stack Developer | Competitive Programmer | AI/ML Enthusiast
 
 ## Java Projects :
 
+###  Multi-Threaded & Networking Applications :
 - [Chat App Repo ](https://github.com/Arjun-coder5/ChatApp)
 - [Car Rental System Repo](https://github.com/Arjun-coder5/Car-Rental-System)
 - [Employee RolePay System Repo](https://github.com/Arjun-coder5/Java-Employee-Payroll-System)
+### JDBC & Relational Database (CRUD) Projects :
 - [Hotel Reservation System](https://github.com/Arjun-coder5/Hotel-Reservation-System)
+### Serverlet and JSP  used project:
 - 
+### Full stack Spring Boot Project  : 
+-
+### full stack project include
+- [***Backend*** - spring boot, Spring security , jwt Authentication,0Auth2,Google Login,Hybernate/jpa,MySQL]
+- [***Frontend*** - React Vite ,Redux ToolKit,React rounter dom ,Axios ,TailWind css, Material UI. ***Payment***-Razorpay]
+- 
+-
+### 
+-
+
 ---
 ##   AI/ML Projects :
 - [Crop Yeild Prediction System Repo](https://github.com/Arjun-coder5/Crop-Yield-Prediction-ML)
