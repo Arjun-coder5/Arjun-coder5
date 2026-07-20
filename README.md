@@ -44,13 +44,12 @@ Java Full Stack Developer | Competitive Programmer | AI/ML Enthusiast
 | **Currently Learning** | MySql,MatplotLib... |
 ---
 
-## 🎯 2026 Goals
-
-- Solve Arround 1100+ on cf and 700+ Leetcode 
-- Reach Specialist on Codeforces
-- Build production-ready Spring Boot projects
-- Learn Microservices and System Design
-- Build AI/ML portfolio projects
+## 🎯  Goal - From [ My Birthday **25 july 2026** to **30 Aug 2026**
+- Solve Around [ **cf : ~2000** && **LC : ~800**]
+- AtCoder [1600+ cyan] HARD LEVEL
+- Java Full Stack Project .
+- AI/ML: **8+ Projects + 1 End-to-End RAG Application**
+- Land a **Product-Based** Company Internship
 ---
 
 ---
