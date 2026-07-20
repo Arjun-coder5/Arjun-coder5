@@ -40,7 +40,7 @@ Java Full Stack Developer | Competitive Programmer | AI/ML Enthusiast
 | **Competitive Programming** | LeetCode, Codeforces, AtCoder |
 | **Tools & Platforms** | Git, GitHub, Maven, IntelliJ IDEA, VS Code, Postman |
 | **Architecture** | REST API Design, Layered Architecture, MVC Pattern, Microservices (Learning) |
-| **AI / ML** | NumPy, Pandas, Matplotlib *(Learning)* |
+| **AI / ML** | NumPy, Pandas, Matplotlib , seaborn , Machine Learning **(Learning)** |
 | **Currently Learning** | MySql,MatplotLib... |
 ---
 
