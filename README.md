@@ -51,7 +51,4 @@ Java Full Stack Developer | Competitive Programmer | AI/ML Enthusiast
 - AI/ML: **8+ Projects + 1 End-to-End RAG Application**
 - Land a **Product-Based** Company Internship
 ---
-
----
-
 "Discipline at scale builds engineers, not shortcuts."
