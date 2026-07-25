@@ -18,18 +18,10 @@ Java Full Stack Developer | Competitive Programmer | AI/ML Enthusiast
 - Computer Science undergraduate passionate about backend engineering, algorithms, and artificial intelligence. I enjoy building scalable Java applications, solving algorithmic problems, and participating in competitive - programming contests. I'm currently strengthening my expertise in Java Full Stack Development, AI/ML, and system design while preparing for software engineering roles at product-based companies.
 
 ---
-
-## Java Projects :
-- [Chat App Repo ](https://github.com/Arjun-coder5/ChatApp)
-- [Car Rental System Repo](https://github.com/Arjun-coder5/Car-Rental-System)
-- [Employee RolePay System Repo](https://github.com/Arjun-coder5/Java-Employee-Payroll-System)
-- [Hotel Reservation System](https://github.com/Arjun-coder5/Hotel-Reservation-System)
----
-##   AI/ML Projects :
-- [Crop Yeild Prediction System Repo](https://github.com/Arjun-coder5/Crop-Yield-Prediction-ML)
+# Project Section : 
+- AI-powered career recommendation platform using Java Spring Boot, React, PostgreSQL, and the Claude API - Working . 
 - 
 ---
-
 ## Technical Skillset - 
 
 | Category | Technologies |
