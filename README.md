@@ -19,28 +19,17 @@ Java Full Stack Developer | Competitive Programmer | AI/ML Enthusiast
 
 ---
 # Project Section : 
-- AI-powered career recommendation platform using Java Spring Boot, React, PostgreSQL, and the Claude API - Working . 
-- 
+- Change this Comment When you do one project 
 ---
 ## Technical Skillset - 
 
 | Category | Technologies |
 |-----------|--------------|
-| **Languages** | Java, Python, SQL |
-| **Backend Development** | Spring Boot, Spring MVC, Spring Data JPA, Hibernate, RESTful APIs |
-| **Databases** | MySQL, PostgreSQL, MongoDB |
+| **Languages** |  |
+| **Backend Development** |  |
+| **Databases** | |
 | **Competitive Programming** | LeetCode, Codeforces, AtCoder |
-| **Tools & Platforms** | Git, GitHub, Maven, IntelliJ IDEA, VS Code, Postman |
-| **Architecture** | REST API Design, Layered Architecture, MVC Pattern, Microservices (Learning) |
-| **AI / ML** | NumPy, Pandas, Matplotlib , seaborn , Machine Learning **(Learning)** |
-| **Currently Learning** | MySql,MatplotLib... |
+| **Tools & Platforms** | |
+| **Architecture** | |
+| **AI / ML** ||
 ---
-
-## 🎯  Goal - From [ My Birthday **25 july 2026** to **30 Aug 2026**
-- Solve Around [ **cf : ~2000** && **LC : ~800**]
-- AtCoder [**1600+ cyan**] HARD LEVEL
-- **Java Full Stack** Project .
-- AI/ML: **8+ Projects + 1 End-to-End RAG Application**
-- Land a **Product-Based** Company Internship
----
-"Discipline at scale builds engineers, not shortcuts."
