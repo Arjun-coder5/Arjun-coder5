@@ -25,11 +25,11 @@ Java Full Stack Developer | Competitive Programmer | AI/ML Enthusiast
 
 | Category | Technologies |
 |-----------|--------------|
-| **Languages** |  |
-| **Backend Development** |  |
-| **Databases** | |
+| **Languages** | JAVA, Python, SQL |
+| **Backend Development** | Servlets,Jsp |
+| **Databases** | MySQL, PgAdmin |
 | **Competitive Programming** | LeetCode, Codeforces, AtCoder |
-| **Tools & Platforms** | |
+| **Tools & Platforms** | Maven , GitHub & GIT |
 | **Architecture** | |
-| **AI / ML** ||
+| **AI / ML** | ML |
 ---
