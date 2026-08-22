@@ -13,10 +13,23 @@ Java Full Stack Developer | Competitive Programmer | AI/ML Enthusiast
 - [![AtCoder](https://img.shields.io/badge/AtCoder-black)](https://atcoder.jp/users/Storm_Breaker_07)
 - 📧 Email:arjunsorout526@gmail.com 
 ---
+# [PortFolio Website ](https://www.youtube.com/watch?v=JSFIGIA9Zrk&list=PL07efmqYWHZ_rVeQ1ws0ER9eL6cxo-d5V)
+---
 ## About me 
 
 - Computer Science undergraduate passionate about backend engineering, algorithms, and artificial intelligence. I enjoy building scalable Java applications, solving algorithmic problems, and participating in competitive - programming contests. I'm currently strengthening my expertise in Java Full Stack Development, AI/ML, and system design while preparing for software engineering roles at product-based companies.
+---
+## Technical Skillset - 
 
+| Category | Technologies |
+|-----------|--------------|
+| **Languages** | JAVA, Python, SQL |
+| **Backend Development** | Servlets,Jsp |
+| **Databases** | MySQL, PgAdmin |
+| **Competitive Programming** | LeetCode, Codeforces, AtCoder |
+| **Tools & Platforms** | Maven , GitHub & GIT |
+| **Architecture** | |
+| **AI / ML** | ML |
 ---
 # Project Section : 
 # Java Based :
@@ -70,18 +83,4 @@ Java Full Stack Developer | Competitive Programmer | AI/ML Enthusiast
 - ## 6. Gen AI Based Project :
 - ## 7. Agentic AI Project : 
 - ## 7. MLOps Capston Project :
----
-# [PortFolio Website ](https://www.youtube.com/watch?v=JSFIGIA9Zrk&list=PL07efmqYWHZ_rVeQ1ws0ER9eL6cxo-d5V)
----
-## Technical Skillset - 
-
-| Category | Technologies |
-|-----------|--------------|
-| **Languages** | JAVA, Python, SQL |
-| **Backend Development** | Servlets,Jsp |
-| **Databases** | MySQL, PgAdmin |
-| **Competitive Programming** | LeetCode, Codeforces, AtCoder |
-| **Tools & Platforms** | Maven , GitHub & GIT |
-| **Architecture** | |
-| **AI / ML** | ML |
 ---
