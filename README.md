@@ -33,9 +33,6 @@ Java Full Stack Developer | Competitive Programmer | AI/ML Enthusiast
 ---
 # Project Section : 
 # Java Based :
-# **Hibernet Based** : 
-- ## 3. [Notes Taking App](https://youtu.be/0nuGm8HBjWk?si=Q6aUmhzbsPGa18Jh)
-- ### Check Code
 # **Frontend Projects** : 
 - ## 4. [Full AI-Powered Applicant Tracking System](https://youtu.be/iYOz165wGkQ?si=w_0pThDt_qRM_Cjs)
 - ### Check Code
