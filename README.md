@@ -19,9 +19,8 @@ Java Full Stack Developer | Competitive Programmer | AI/ML Enthusiast
 
 ---
 # Project Section : 
-
-- # Java Based :
-# **JSP sERVLET JDBC Based** : 
+# Java Based :
+## **JSP SERVLET JDBC Based** : 
 - ## 1. [ Registration form](https://youtu.be/ya-pUARZjxo?si=Sss0M-1keZWa-n4J)
 - ### Go Here for code review
 - ## 2. [Weather App](https://youtu.be/ya-pUARZjxo?si=Sss0M-1keZWa-n4J)
