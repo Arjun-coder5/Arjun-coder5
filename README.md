@@ -19,7 +19,60 @@ Java Full Stack Developer | Competitive Programmer | AI/ML Enthusiast
 
 ---
 # Project Section : 
-- Change this Comment When you do one project 
+
+- # Java Based :
+# **JSP sERVLET JDBC Based** : 
+- ## 1. [ Registration form](https://youtu.be/ya-pUARZjxo?si=Sss0M-1keZWa-n4J)
+- ### Go Here for code review
+- ## 2. [Weather App](https://youtu.be/ya-pUARZjxo?si=Sss0M-1keZWa-n4J)
+- ### Go Here for Code review
+# **Hibernet Based** : 
+- ## 3. [Notes Taking App](https://youtu.be/0nuGm8HBjWk?si=Q6aUmhzbsPGa18Jh)
+- ### Check Code
+# **Frontend Projects** : 
+- ## 4. [Full AI-Powered Applicant Tracking System](https://youtu.be/iYOz165wGkQ?si=w_0pThDt_qRM_Cjs)
+- ### Check Code
+- ## 5. [Gemini Clone](https://youtu.be/0yboGn8errU?si=ZNXNu1JOKQNd9J9M)
+- ### Check Code
+# **Spring Boot projects** : 
+- ## 6. [Ecommerce Platform](https://www.udemy.com/course/spring-boot-using-intellij-build-a-real-world-project/learn/lecture/51486789/?start=0&udfrontends=true)
+- ### Code Check
+- ## 7.[ Blog Application](https://www.youtube.com/watch?v=tGb1dNMa5c8&list=PL6Rs84MkNq7kv3auhwU6gOVDvJ1eH_Wax&index=3)
+- ### Check Code
+- ## 8.  [Authentication Application](https://www.youtube.com/playlist?list=PL0zysOflRCem2SLBwhDMok05hwLtRTRDr)
+- ### Check Code
+- ## 9. [Email Sender](https://www.youtube.com/playlist?list=PL0zysOflRCenujRE0Nfdqo3W6dJgiPlku)
+- ### Check Code
+- ## 10. [AI Expense Tracker](https://youtube.com/playlist?list=PLtpw--JmgzO0RK9PfzPV3rOMi3Qnac9Ks&si=EL_R3Ieix08QaBt6)
+- ### Check Code Here
+- ## 11. [Bitly Clone](https://www.youtube.com/watch?v=icm4JQdi9NU)
+- ### Check Code
+# Microservices : 
+- ## 12. Job Application Project
+- ### Check Code
+- ## 13. [Airline Booking System](https://www.youtube.com/watch?v=yFoI4a3HbO0)
+- ### Code Here
+# Spring AI Microservises Based : 
+- ## 14. [AI Powered Fitness Application](https://www.youtube.com/watch?v=_FdKTSFnWeg)
+- ### Code Here
+- ## 15. AI Powered Job Application
+- ### Code Here
+- ## 16. [AI Powered Resume Maker](https://www.youtube.com/watch?v=62dbESNu58M)
+- ### Code Here
+- ## 17. [AI Powered Smart reserch Assistent](https://www.youtube.com/watch?v=IXn4OGaJfHA)
+- ### Code Here
+---
+- # AI/ML Based :
+- ## 1. ML Based Project :
+- ## 2. DL Based Project :
+- ## 3. CV Based Project :
+- ## 4. NLP Based Project :
+- ## 5. Rainforcement Based Project :
+- ## 6. Gen AI Based Project :
+- ## 7. Agentic AI Project : 
+- ## 7. MLOps Capston Project :
+---
+# [PortFolio Website ](https://www.youtube.com/watch?v=JSFIGIA9Zrk&list=PL07efmqYWHZ_rVeQ1ws0ER9eL6cxo-d5V)
 ---
 ## Technical Skillset - 
 
