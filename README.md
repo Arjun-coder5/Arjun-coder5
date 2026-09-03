@@ -13,7 +13,26 @@ Java Full Stack Developer | Competitive Programmer | AI/ML Enthusiast
 - [![AtCoder](https://img.shields.io/badge/AtCoder-black)](https://atcoder.jp/users/Storm_Breaker_07)
 - 📧 Email:arjunsorout526@gmail.com 
 ---
-# [PortFolio Website ](https://www.youtube.com/watch?v=JSFIGIA9Zrk&list=PL07efmqYWHZ_rVeQ1ws0ER9eL6cxo-d5V)
+# Diagram : 
+--
+                JOB READY
+                    │
+       ┌────────────┼────────────┐
+       ↓            ↓            ↓
+      DSA      CORE SUBJECTS   PROJECTS
+       │            │            │
+  150–200       Java/DBMS/OS   3–4 strong
+   problems       Networks      projects
+       │            │            │
+       └────────────┼────────────┘
+                    ↓
+              SYSTEM DESIGN
+                    │
+              HLD + LLD
+                    ↓
+              MOCK INTERVIEWS
+                    ↓
+                  APPLY
 ---
 ## About me 
 
